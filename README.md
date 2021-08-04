@@ -1,10 +1,13 @@
 # ICS
 ## proxy
-using c  
+Implemented with c  
 a multi-threaded proxy using cache
 ## malloc
-using c
+Implemented with c
+A version of malloc using two-way linked-list.
 ## shell
-using c
+Implemented with c
+A simple Linux shell.
 ## fuzzing
-c++
+Implemented with c++
+A testing technique aims at brute force vulnerability discovery.
